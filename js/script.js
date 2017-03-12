@@ -7,8 +7,8 @@ Load Page
 		
 	$('body').waitForImages({
 		finished: function() {
-				Website();
-				$('body').jKit();
+			Website();
+			$('body').jKit();
 		},
 		waitForAll: true
 	});
@@ -18,20 +18,21 @@ Load Page
 Ajax link page transitions
 ---------------------------------------------*/
 
-	$("a.ajax-link").live("click", function(){
+	$("a.ajax-link").live("click", function() {
 		$this = $(this);
 		var link = $this.attr('href');
 		var current_url = $(location).attr('href');	
 		
-		if( link != current_url && link != '#' ) { 
+		if( link !== current_url && link !== '#' ) { 
 		$.ajax({
 			url:link,
 			processData:true, 
-			dataType:'html', 
-			success:function(data){
-				document.title = $(data).filter('title').text(); 
-				current_url = link;
-        if (typeof history.pushState != 'undefined') history.pushState(data, 'Page', link);
+			dataType: 'html',
+				success: function (data){
+				document.title = $(data).filter('title').text();
+					current_url = link;
+        			if (typeof history.pushState !== 'undefined') 
+					history.pushState(data, 'Page', link);
         
           setTimeout(function(){						
           $('#preloader').delay(50).fadeIn(600);
@@ -46,7 +47,7 @@ Ajax link page transitions
 							finished: function() {
 								Website();
 								backLoading();
-								$('.opacity-nav').delay(50).fadeOut(600);
+								$('.opacity-nav').delay(25).fadeOut(600);
               },										
               waitForAll: true
 						});								
