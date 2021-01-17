@@ -1,0 +1,345 @@
+---
+title: "CV"
+author: "Jessie K. Edwards"
+output:
+  stevetemplates::cv: default
+  html_document:
+    df_print: paged
+  pdf_document: default
+geometry: margin=1in
+address: 135 Dauer Dr. Chapel Hill, NC 27599
+fontawesome: yes
+email: jessedwards@unc.edu
+github: edwardsjk
+phone: +1 919 966 7338
+updated: yes
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# ACADEMIC APPOINTMENTS
+
+*University of North Carolina at Chapel Hill*
+
+**Assistant Professor**, Department of Epidemiology \hfill 2020 -- present
+
+**Research Assistant Professor**, Department of Epidemiology \hfill 2015 -- 2020
+
+**Postdoctoral Research Associate,** Department of Epidemiology \hfill 2013 -- 2015
+
+# EDUCATION
+
+**PhD Epidemiology**, *University of North Carolina at Chapel Hill* \hfill 2013
+
+**MSPH Epidemiology**, *University of North Carolina at Chapel Hill* \hfill 2010
+
+**BS International Affairs**, *Georgia Institute of Technology* \hfill 2007
+
+# AWARDS
+
+Berton H. Kaplan Student Publication Award \hfill {2013}  
+*University of North Carolina at Chapel Hill*  
+
+Sidney Kark Award for Distinguished Teaching Assistant \hfill {2013}  
+*University of North Carolina at Chapel Hill*  
+
+Delta Omega Public Health Honor Society, Theta Chapter \hfill {2013}  
+
+Society for Epidemiologic Research Student Poster Award \hfill {2012}  
+
+Graduate Merit Assistantship \hfill {2008--2009}  
+*University of North Carolina at Chapel Hill*  
+
+President's Scholarship \hfill {2003--2007}  
+*Georgia Institute of Technology* 
+
+# PUBLICATIONS
+
+## Peer reviewed papers
+1. **Edwards JK**, Cole SR, Fox MP. Flexibly accounting for exposure misclassification with external validation data. American Journal of Epidemiology. 2020; *In press*
+1. Gaber CE, Kinlaw AC, **Edwards JK**, Lund JL, St&uuml;rmer T, Peacock Hinton S, Pate V, Bartelt LA, Sandler RS, Peery AF. Comparative Effectiveness and Harms of Antibiotics for Outpatient Diverticulitis
+Two Nationwide Cohort Studies. Annals of Internal Medicine. 2021; *In press*.
+1. Zalla L\*, **Edwards JK**, Cole SR, Rudolph JE, Breger TL, Virkud A, Satcher Johnson A, Hall HI. Data Movies of Demographic Trends in US HIV Diagnoses, 2008-2017. American Journal of Public Health. 2020; *In press*
+1. Stoner MCD, **Edwards JK**, Westreich D, Kilburn K, Ahern J, Lippman SA, Gomez-Olive X, Kahn K, Pettifor A. Modelling cash plus other psychosocial and structural interventions to prevent HIV among girls of school age in South Africa (HPTN 068). AIDS and Behavior. 2021; *In press*.
+1. Price J, Vwalika B, **Edwards JK**, Cole SR, Kasaro MP, RIttenhouse K., Kumwenda A, Lubeya M, Stringer JSA.Maternal HIV infection and preterm birth phenotype in an urban Zambian cohort. JAIDS. 2020; *In press*
+1. Rudolph JE, **Edwards JK**, Naimi AI, Westreich DJ. Simulation in practice: the balancing intercept. American Journal of Epidemiology. 2020; In press
+1. Albert LM, **Edwards JK**, Pence B, Speizer IS, Hillis S, Kahn K, Gómez-Olivé FX, Wagner RG, Twine R, Pettifor A. Associations of father and adult male presence with first pregnancy and HIV infection: Longitudinal evidence from adolescent girls and young women in rural South Africa (HPTN068). AIDS and Behavior. 2020; In press
+1. Zalla LC\*, Martin CL, **Edwards JK**, Gartner DR, Noppert GA. A Geography of Risk: Structural Racism and COVID-19 Mortality in the United States. American Journal of Epidemiology. 2020; *In press*
+1. Cole SR, **Edwards JK**, Breskin A, Hudgens MG. Comparing Parametric, Semiparametric, and Nonparametric Estimators: The Weibull Trials. American Journal of Epidemiology. 2020; *In press*
+1. Stoner MCD, Westreich D, Ahern J,  **Edwards JK**, Gomez-Olive X, Tollman SM, Lippman S, Kahn K, Pettifor A. Modeling combination interventions to prevent HIV in adolescent girls and young women in South Africa (HPTN 068). Clinical Infectious Diseases. 2020; *In press*
+1. Deutsch-Feldman M, Parr JB, Keeler C, Brazeau NF*, Goel V, Emch M,  **Edwards JK**, Kashamuka M, Tshefu AK, Meshnick SR. What is the burden of malaria in the DRC? Journal of Infectious Diseases. 2020; *In press*
+1. Topazian HM, Gumbo A, Puerto-Meredith S, Njiko R, Kayange M, Mwalilino D, Mvula B, Tegha G, Mvalo T,  **Edwards JK**, Emch M, Pettifor A, Smith J, Hoffman I, Meshnick SR, Juliano JJ. Hidden Reservoir: Asymptomatic Plasmodium falciparum Malaria Prevalence among Adolescents and Adults in Malawi, 2015-2016. Scientific Reports. 2020; In press
+1. Richardson DB, Keil AP, Cole SR,  **Edwards JK**. Reducing Bias Due to Exposure Measurement Error Using Disease Risk Scores. American Journal of Epidemiology. 2020; *In press*
+1. Lu H, Cole SR, Westreich D, Hudgens MG, Adimora A, Althoff KN, Silverberg MJ, Buchacz K, Li J,  **Edwards JK**, Rebeiro PF, Lima VD, Marconi VC, Sterling TR, Horberg MA, Gill MJ, Kitahata MM, Eron JJ, Moore RD. Clinical effectiveness of integrase strand transfer inhibitor-based antiretroviral regimens among adults with human immunodeficiency virus: a collaboration of cohort studies in the United States and Canada. Clinical Infectious Diseases. 2020. *In press*
+1. Cole SR,  **Edwards JK**, Greenland S. Surprise!. American Journal of Epidemiology. 2020. In press
+1. Webster-Clark M, Stürmer T,  **Edwards JK**, Poole C, Simpson RJ, Lund JL. Real-World On-Treatment and Initial Treatment Absolute Risk Differences for Dabigatran vs Warfarin in Older US Adults. Pharmacoepidemiology and Drug Safety. 2020; *In press*
+1. Cole SR,  **Edwards JK**, Naimi AI, Muñoz A. Hidden imputations and the Kaplan-Meier estimator. American Journal of Epidemiology. 2020; *In press*
+1. Lesko CL, Keil AP,  **Edwards JK**. The Epidemiologic Toolbox: Identifying, honing, and using the right tools for the job. American Journal of Epidemiology. 2020; In press
+1. Richardson DB, Cole SR, Keil AP, E **Edwards JK**, Kinlaw AC. Standardizing Discrete Time Hazard Ratios with a Disease Risk Score. American Journal of Epidemiology. 2020; *In press*
+1. Fearon E, Chabata ST, Magutshwa S, Ndori-Mharadze T, Musemburi S, Chidawanyika H, Masendeke A, Napierala S, Gonese E, Roloff AH, Tippett Barr BA , Kilmarx PH, Wong-Gruenwald R, Chidiya S, Mhangara M, Hanisch D,  **Edwards JK**, Rice B, Taramusi I, Mbengeranwa T, Magure T, Manangazira P, Mugurungi O, Hargreaves JR, Cowan FM. Estimating the population size of female sex workers in Zimbabwe: comparison of estimates obtained using different methods in twenty sites and development of a national-level estimate. Journal of AIDS. 2020; *In press*
+1. Breger TL\*,  **Edwards JK**, Cole SR, Westreich D, Pence BW, Adimora AA. Two-stage g-computation: evaluating treatment and intervention impacts in observational cohorts when exposure information is partly missing. Epidemiology. 31 (5), 695-703
+1. Virkud AV\*, Arimi P, Ssengooba F, Mulholland GE, Herce ME, Markiewicz M, Weir S,  **Edwards JK**. Access to HIV prevention services in East African cross-border areas: a 2016-2017 cross-sectional bio-behavioral study. Journal of the International AIDS Society. 2020; 23, e25523
+1. Breger TL\*,  **Edwards JK**, Cole SR, Saag M, Rebeiro PF, Moore RD, Eron JJ. Estimating a set of mortality risk functions with multiple contributing causes of death. Epidemiology. 2020; 31 (5), 704-712
+1. Deutsch-Feldman M, Brazeau NF, Parr JB, Thwai KL, Muwonga J, Kashamuka M, Tshefu AK, Aydemir O, Bailey JA,  **Edwards JK**, Verity R, Emch M, Gower EW, Juliano JJ, Meshnick SR. Spatial and epidemiological drivers of P. falciparum malaria among adults in the Democratic Republic of the Congo. BMJ Global Health. 2020; 5 (6), e002316
+1. Webster-Clark M, Lund JL, Stürmer T, Poole C, Simpson R,  **Edwards JK**. Reweighting Oranges to Apples: Transported RE-LY Trial vs Non-experimental Effect Estimates of Anticoagulation in Atrial Fibrillation. Epidemiology. 2020: 31 (5), 605-613
+1.  **Edwards JK**, Arimi P, Ssengooba F, Herce ME, Mulholland G, Markiewicz M, Babirye S, Ssendagire S, Weir SS. Improving HIV outreach testing yield at cross-border venues in East Africa. AIDS. 2020; 34 (6), 923
+1. Lesko CR, Ackerman B, Webster-Clark M,  **Edwards JK**. Target Validity: Bringing Treatment of External Validity in Line with Internal Validity. Current Epidemiology Reports. 2020 Jun 30:1-8.
+1.  **Edwards JK**, Lesko CR, Herce ME, Murenzi G, Twizere C, Lelo P, Anastos K, Tymejczyk O, Yotebieng M, Nash D, Adedimeji A, Edmonds A. Gone but not lost: implications for estimating HIV care outcomes when loss to clinic is not loss to care. Epidemiology. 2020; 31(4): 570-577
+1. Haber NA, Lesko CR, Fox MP, Powers KA, Harling G,  **Edwards JK**, Salomon J, Lippman SA, Bor J, Chang AY, Anglemyer A, Pettifor A. Limitations of the UNAIDS 90-90-90 Metrics: A Simulation-Based Comparison of Cross-Sectional and Longitudinal Metrics for the HIV Care Continuum. AIDS. 2020; 34(7): 1047-1055
+1. Topazian HM, Stoner MCD,  **Edwards JK**, Kahn K, Gomez-Olive FX, Twine R, Hughes JP, Cohen MS, Pettifor A. Variations in HIV risk by young woman’s age and partner age-disparity in rural South Africa (HPTN 068). JAIDS. 2019; In press
+1. Fox MP,  **Edwards JK**, Platt R, Balzer LB. The critical importance of asking good questions: The role of epidemiology doctoral training programs. American Journal of Epidemiology. 2019; 189 (4), 261-264
+1.  **Edwards JK**, Bakoyannis G, Yiannoutsos C, Mburu M, Cole SR. Nonparametric estimation of the cumulative incidence function under outcome misclassification using external validation data. Statistics in Medicine. 2019; 38(29): 5512-5527
+1. Ibragimov U, Beane S, Friedman SR, Komro K, Adimora AA,  **Edwards JK**, Williams L, Tempalski B, Livingston MD, Stall R, Wingood G, Cooper HLF. States with higher minimum wages have lower STI rates among women: Results of an ecological study of 66 US metropolitan areas, 2003-2015. PloS one. 2019;14(10).
+1.  **Edwards JK**, Htoo PT, Stürmer T. Keeping the demons at bay when handling time varying exposures: beyond avoiding immortal person time. American Journal of Epidemiology. 2019;188(6):1016-1022
+1. Lesko CR,  **Edwards JK**, Moore RD, Lau B. Censoring for loss to follow-up in time-to-event analyses of composite outcomes or in the presence of competing risks. American Journal of Epidemiology. 2019; Nov 1;30(6):817-24
+1. Breskin A, Westreich D, Cole SR,  **Edwards JK**. Using bounds to compare the strength of exchangeability assumptions for internal and external validity. American Journal of Epidemiology. 2019; 188(7): 1355 - 1360
+1. Verdery AM, Weir S, Reynolds Z, Mulholland GM,  **Edwards JK**. Estimating Hidden Population Sizes with Venue Based Sampling: Extensions of the Generalized Network Scale-up Estimator. Epidemiology. 2019; 30(6):901.
+1. Stoner MCD, Rucinski KB,  **Edwards JK**, Selin A, Hughes JP, Wang J, Agyei Y, Gomez-Olive FX, Macphail C, Kahn K, Pettifor A. The relationship between school dropout and pregnancy among adolescent and young women in South Africa: A HPTN 068 analysis. Health Behavior and Education. 2019; 1090198119831755
+1. Cole SR, Hudgens MG,  **Edwards JK**, Brookhart MA, Richardson DB, Westreich D, Adimora A. Nonparametric bounds for the risk function. American Journal of Epidemiology. 2019; 29;188(4):632-6.
+1. Horner MJ, Chasimpha S, Spoerri A,  **Edwards JK**, Tweya H, Tembo P, Nkhambule F, Phiri EM, Miller WC, Cole SR, Olshan AF, Bohlius J, Malisita K, Phiri S, Dzamalala C, Gopal S. High Cancer Burden Among Antiretroviral Therapy Users in Malawi: a Record Linkage Study of Observational HIV Cohorts and Cancer Registry Data. Clinical Infectious Diseases. 2019; 69(5): 829-835
+1. Datta A, Lin W, Rao A, Diouf D, Kouame A,  **Edwards JK**, Bao L, Louis TA, Baral S. Bayesian estimation of MSM population in Cote d’Ivoire. Statistics and Public Policy. 2019; 1;6(1):1-3
+1. Singh K, Changer G, Lau B, **Edwards JK**, Moore RD, Lesko CR. Association of history of injection drug use with external cause-related mortality among persons linked to HIV care in an urban clinic, 2001-2015. AIDS and Behavior. 2019; 23(12): 3286-3293
+1. Zalla LC, Herce M,  **Edwards JK**, Michel J, Weir SS. The burden of HIV among female sex workers, men who have sex with men and transgender women in Haiti: Results from the 2016 Priorities for Local AIDS Control Efforts (PLACE) study. Journal of the International AIDS Society. 2019; 22(7):e25281
+1.  **Edwards JK**, Arimi P, Ssengooba F, Mulholland G*, Markiewicz M, Bukusi EA, Orikiiriza J, Virkud A, Weir S. The HIV care continuum among resident and non-resident populations found in venues in East Africa cross-border areas. Journal of the International AIDS Society. 2019; 21(1): e25226
+1. Rudolph JE, Cole SR,  **Edwards JK**, Whitsel EA, Serre ML, Richardson DB. Using Animations of Risk Functions to Visualize Trends in US All-Cause and Cause-Specific Mortality, 1968–2016. American Journal of Public Health. 2019; 109(3): 451–453
+1. Lu H, Cole SR, Hall HI, Schisterman EF, Breger TL,  **Edwards JK**, Westreich D. Generalizing the per-protocol treatment effect: The case of ACTG A5095. Clinical Trials. 2019: 16(1); 52–62.
+1. Fatukasi TV*, Edmonds A, Gustafson DR, Cole SR, Edwards JK, Bolivar H, Cohen M, Fischl MA, Gange S, Konkle-Parker D, Moran CA. Prevalence and 1-year incidence of frailty among women with and without HIV in the Women’s Interagency HIV Study. AIDS. 2019; 33(2):357-9.
+1. Stoner MCD, Nguyen N, Kilburn K, Gomez-Olive FX,  **Edwards JK**, Selin A, Hughes JP, Agyei Y, MacPhail C, Kahn K, Pettifor A. Age-disparate partnerships and incident HIV infection in adolescent girls and young women in rural South Africa: an HPTN 068 analysis. AIDS. 2019; 33(1): 83-91
+1. Westreich D,  **Edwards JK**, Lesko CR, Cole, SR, Stuart EA. Target validity and the hierarchy of study designs. American Journal of Epidemiology. 2018; 188(2): 438–443
+1.  **Edwards JK**, Hileman S, Donastorg Y, Zadrozny S, Baral S, Hargreaves J, Fearon E, Zhao J, Datta A, Weir S. Estimating sizes of key populations at the national level: considerations for study design and analysis. Epidemiology. 2018; 29(6): 795-803
+1. Rudolph JE*, Cole SR,  **Edwards JK**. Parametric assumptions equate to hidden observations: comparing the efficiency of nonparametric and parametric models for estimating time to AIDS or death in a cohort of HIV-positive women. BMC Medical Research Methodology. 2018; 18:142
+1. **Edwards JK**, Cole SR, Moore RD, Mathews WC, Kitahata M, Eron JJ. Sensitivity analyses for misclassification of cause of death in the parametric g-formula. American Journal of Epidemiology. 2018; 8(1): 1808-1816
+1. Keil AP and  **Edwards JK**. A review of time scale fundamentals in the g-formula and insidious selection bias. Current Epidemiology Reports. 2018; 5(3): 205-213
+1. Herce M, Miller W, Bula A,  **Edwards JK**, Sapalalo P, Lancaster K, Mofolo I, Mendes Furtado M, Weir S. Achieving the first 90 for key populations in sub-Saharan Africa through venue-based outreach: Challenges and opportunities for HIV prevention based on PLACE study findings from Malawi and Angola. Journal of the International Aids Society. 2018; 21:e25132
+1. Stoner MCD,  **Edwards JK**, Miller WC, Aiello AE, Halpern CT, Julien A, Rucinski KB, Selin A, Twine R, Hughes JP, Wang J, Agyei Y, Gomez-Olive FX, Wagner RG, Laeyendecker O, MacPhail C, Kahn K, Pettifor A. Does partner selection mediate the relationship between school attendance and HIV/HSV-2 among adolescent girls and young women in South Africa: An analysis of HPTN 068 data. JAIDS. 2018; 79(1): 20-27
+1. Keil AP and  **Edwards JK**. You are smarter than you think: (super) machine learning in context. European Journal of Epidemiology. 2018; 33(5): 437-440
+1. Bengtson AM, Pence BW, Eaton EF,  **Edwards JK**, Eron JJ, Mathews WC, Mollan K, Moore RD, O’Cleirigh C, Geng E, Mugavero MJ. Patterns of Efavirenz Use as First Line Antiretroviral Therapy in the United States: 1999-2015. Antiviral Therapy. 2018; 23:363-372
+1. **Edwards JK**, Cole SR, Hall HI, Mathews WC, Moore RD, Mugavero MJ, Eron JJ. Virologic suppression and CD4 cell count recovery after initiation of raltegravir- or efavirenz- containing HIV treatment regimens. AIDS. 2018; 32(2): 261-266
+1. Keil AP, Mooney S, Jonsson Funk M, Cole SR,  **Edwards JK**, Westreich D. Resolving an apparent paradox in double-robust estimators. American Journal of Epidemiology. 2018; 187(4): 891-892
+1. Rudolph JE*, Cole SR,  **Edwards JK**, Moore R, O’Cleirigh C, Mathews WC, Christopoulos K. At-risk alcohol use among HIV-positive patients and completion of patient-reported outcomes. AIDS and Behavior. 2018; 22(4): 1313-1322
+1. Weir S, Baral SD,  **Edwards JK**, Zadrozny S, Hargreaves J, Zhao J, Sabin K. HIV Surveillance of Key Populations: Opportunities for Enhanced Strategic Use of Surveys, Health Records, and Program Data. JMIR Public Health and Surveillance. 2018; 4(2): e28
+1. Cole SR,  **Edwards JK**, Westreich D, Lesko CR, Lau B, Mugavero MJ, Mathews WC, Eron JJ, Greenland S. Estimating multiple time-fixed treatment effects using a semi-Bayes semiparametric marginal structural Cox proportional hazards regression model. Biometrical Journal. 2018; 60(1): 100-114
+1. Lesko CR,  **Edwards JK**, Cole SR, Moore RD, Lau B. When to censor? American Journal of Epidemiology. 2018; 187(1): 623-632
+1. Keil AP, Daza EJ, Engle SM, Buckley JP,  **Edwards JK**. A Bayesian approach to the g-formula. Statistical Methods in Medical Research. 2018; 27(10):3183-3204
+1. Kilburn K, Pettifor A,  **Edwards JK**, Selin A, Delong S, Twine R, Hughes J, Wang J, Gomez-Olive X, Macphail C, and Kahn K. Conditional cash transfers and the reduction of partner violence for young women: An investigation of causal pathways using evidence from a randomized experiment in South Africa (HPTN 068). Journal of the International AIDS Society. 2018; 21(S1), e25043
+1. Hong J, Funk MJ, LoCasale R, Dempster S, Cole SR, Webster-Clark M,  **Edwards JK**, Stürmer T. Generalizing randomized clinical trial results: Implementation and challenges related to missing data in the target population. American Journal of Epidemiology. 2018; 187(4): 817-827
+1. Stoner MCD,  **Edwards JK**, Miller WC, Aiello AE, Halpern CT, Julien A, Selin A, Hughes JP, Wang J, Gomez-Olive FX, Wagner RG, MacPhail C, Kahn K, Pettifor A. The effect of schooling on age-disparate relationships and number of sexual partners among young women in rural South Africa enrolled in HPTN 068. AIDS. 2017; 76(5): e107-e114
+1.  **Edwards JK**, Lesko CR, Keil AP. Causal inference through space and time: quixotic quest, worthy goal, or both? American Journal of Epidemiology. 2017; 186 (2), p143-145
+1. Lesko CR, Todd JV, Cole SR, Edmonds A, Pence BW,  **Edwards JK**, Mack WJ, Bacchetti P, Rubtsova A, Gange SJ, Adimora, AA. Mortality under plausible interventions on antiretroviral treatment and depression in HIV-infected women: an application of the parametric g-formula. Annals of Epidemiology. 2017; 27(12): 783-789
+1. Rao A, Stahlman S, Hargreaves J, Weir S,  **Edwards JK**, Rice B, Kochelani D, Mavimbela M, Baral S. Sampling Key Populations for HIV Surveillance: Results from Eight Cross-Sectional Studies using Respondent-Driven Sampling and Venue-Based Snowball Sampling. JMIR Public Health and Surveillance. 2017; 3(4)
+1. Bengtson AM, Pence BW, Moore RD, O’Cleirigh C, Eaton EF,  **Edwards JK**, Eron JJ, Kitahata MM, Mathews WC, Mollan K, Mugavero MJ. The relationship between efavirenz as initial antiretroviral therapy and suicidal thoughts among HIV-infected adults in routine care. JAIDS. 2017; 76(4): 402-408
+1. Stoner MC, Pettifor A,  **Edwards JK**, Aiello AE, Halpern CT, Julien A, Selin A, Twine R, Hughes JP, Wang J, Agyei Y, Gomez-Olive FX, Wagner RG, Macphail C, Kahn K. The effect of school attendance and school dropout on incident HIV and HSV-2 among young women in rural South Africa enrolled in HPTN 068. AIDS. 2017; 31(15): 2127-2134
+1. Fatukasi T, Cole SR, Moore RD, Mathews WC,  **Edwards JK**, Eron JJ. Risk factors for delayed antiretroviral therapy initiation among HIV-seropositive patients. PLoS ONE. 2017; 12 (7), e0180843
+1.  **Edwards JK**, Keil AP. Measurement error and environmental epidemiology: a policy perspective. Current Environmental Health Reports. 2017; 4(1), 79-88
+1. Cole SR,  **Edwards JK**, Hall HI, Brookhart MA, Mathews WC, Moore RD, Crane HM, Kitahata MM, Mugavero MJ, Saag MS, Eron JJ. Incident AIDS or death after initiation of HIV treatment regimens including raltegravir or efavirenz among adults in the United States. Clinical Infectious Diseases. 2017; 64 (11), 1591-1596
+1. Westreich D,  **Edwards JK**, Lesko CR, Stuart E, Cole SR. Transportability of trial results using inverse odds of sampling weights. American Journal of Epidemiology. 2017; 186(8): 1010-1014
+1. Lesko CR, Buchanan AL, Westreich D,  **Edwards JK**, Hudgens MG, Cole SR. Generalizing study results: a potential outcomes perspective. Epidemiology. 2017; 28(4), 553-561
+1. Cole SR, Chu H, Brookhart MA,  **Edwards JK**. Dogmatists cannot learn. Epidemiology. 2017; 28(2), e10-e11
+1.  **Edwards JK**, Hester L, Gokhale M, Lesko CR. Methodologic issues when estimating risks in pharmacoepidemiology. Current Epidemiology Reports. 2016; 3(4), 285-296
+1.  **Edwards JK**, Cole SR, Lesko CR, Mathews WC, Moore RD, Mugavero MJ, Westreich D. Illustration of inverse probability weighting to estimate policy-relevant causal effects. American Journal of Epidemiology. 2016;184(4), 336-344
+1. Lesko CR,  **Edwards JK**, Moore RD, Lau B. A longitudinal, HIV care continuum: 10-year restricted mean time in each care continuum stage after enrollment in care, by history of injection drug use. AIDS. 2016;20(14), 2227-2234
+1. Westreich D,  **Edwards JK**, Rogowski ET, Hudgens MG, Stuart EA, Cole SR. Causal impact: Epidemiological approaches for a public health of consequence. American Journal of Public Health. 2016; 106(6), 1011-1012
+1. Cole SR, Hudgens MG,  **Edwards JK**. A fundamental equivalence between randomized experiments and observational studies. Epidemiologic Methods. 2016; 5(1), 113-117
+1. **Edwards JK**, Cole SR, Westreich D, Mugavero MJ, Eron JJ, Moore RD, Mathews WC, Hunt P, Williams C. Age at entry into care, timing of antiretroviral therapy initiation, and 10-year mortality among HIV-seropositive adults in the United States. Clinical Infectious Diseases. 2015; 61(7), 1189-1195. With commentary: Walensky RP, Hirsch MS. Age-Old Questions: When to Start Antiretroviral Therapy and in Whom? Clinical Infectious Diseases. 2015; 61(17), 1196-1198.
+1. Westreich D,  **Edwards JK**, Cole SR, Platt RW, Mumford SL, Schisterman EF. Imputation approaches for potential outcomes in causal inference. International Journal of Epidemiology. 2015; 44(5), 1731-1737
+1. Westreich D,  **Edwards JK**. Every good randomization deserves observation. American Journal of Epidemiology. 2015; 182(10), 857-860
+1. **Edwards JK**, Cole SR, Martin J, Moore R, Mathews WC, Kitahata M, Eron J, Saag M, Mugavero MJ. Dynamic visual display of treatment response in HIV-infected adults. Clinical Infectious Diseases. 2015; 61(1), e1-e4.
+1. **Edwards JK**, Cole SR, Westreich D, Crane H, Eron J, Mathews WC, Moore R, Stephen BL, Lesko CR, Mugavero MJ. Multiple imputation to account for measurement error in marginal structural models. Epidemiology 2015; 26(5), 645-652 With commentary: Sullivan PS, Rosenberg ES. Breaking Bias: Improved Methods for Analyzing HIV/AIDS Data. Epidemiology. 2015;26(5):625-7
+1. **Edwards JK**, Cole SR, Westreich D. All your data are always missing: incorporating bias due to measurement error into the potential outcomes framework. International Journal of Epidemiology. 2015; 44(4), 1452-1459.
+1. Lesko CR, Cole SR, Miller WC, Westreich D, Eron JJ, Adimora AA, Moore RD, Mathews WC, Martin JN, Drozd DR, Kitahata MM,  **Edwards JK**, Mugavero MJ. Ten-year survival by race/ethnicity and sex among treated, HIV-infected adults in the United States. Clinical Infectious Diseases. 2015; 60(11), 1700-1707
+1. Figueroa JP, Cooper CJ,  **Edwards JK**, Byfield L, Eastman S, Hobbs M, Weir SS. Understanding the high prevalence of HIV and other sexually transmitted infections among socio-economically vulnerable men who have sex with men in Jamaica. PLoS ONE. 2015; 10(2), e0117686
+1. Butler AM, Olshan AF, Kshirsagar AV, Wang L,  **Edwards JK**, Nielsen ME, Wheeler SB, Brookhart, MA. Cancer incidence among U.S. Medicare end-stage renal disease patients on hemodialysis, 1996-2009. American Journal of Kidney Diseases. 2015; 65(5), 763-772
+1.  **Edwards JK**, Cole SR, Adimora A, Fine J, Martin J, Eron J. Illustration of a measure to combine viral suppression and viral rebound in studies of HIV therapy. Journal of AIDS. 2015; 68(2), 241-244
+1. Buckley JP, Keil A, McGrath LJ,  **Edwards JK**. Evolving methods for inference in the presence of the healthy-worker survivor bias. Epidemiology. 2015; 26(2): 204-212. With commentary: Picciotto S, Hertz-Picciotto I. Commentary: Healthy Worker Survivor Bias: A Still-Evolving Concept. Epidemiology. 2015;26(2):213-5.
+1. **Edwards JK**, McGrath L, Buckley JP, Schubauer-Berigan MK, Cole SR, Richardson DB. Occupational radon exposure and lung cancer mortality: estimating intervention effects using the parametric g-formula. Epidemiology. 2014; 25(6), 829-834
+1. Keil AP,  **Edwards JK**, Richardson DB, Naimi AI, Cole SR. The parametric G-formula for time-to-event data: towards intuition with a worked example. Epidemiology. 2014; 25(6), 889-897. With commentary: Petersen ML. Commentary: Applying a causal road map in settings with time-dependent confounding. Epidemiology (Cambridge, Mass.). 2014;25(6):898-901.
+1.  **Edwards JK**, Cole SR, Westreich D, Moore R, Mathews WC, Geng E, Eron JJ, Mugavero MJ. Loss to clinic and five-year mortality among HIV-infected antiretroviral therapy initiators. PLoS ONE. 2014; 9(7):e102305
+1. **Edwards JK**, Cole SR, Chu H, Olshan AF, Richardson DB. Accounting for outcome misclassification in estimates of the effect of occupational asbestos exposure on lung cancer death. American Journal of Epidemiology. 2014;179(5):641–7
+1. Weir SS, Figueroa JP, Byfield LL, Scott MA, Hobbs MM,  **Edwards JK**, Duncan JP. "Do you think your main partner has other sex partners?” A simple question provides insight into sexual risk in Jamaica. International Journal of STDs and AIDS. 2014; 26(1): 37-41
+1. **Edwards JK**, Cole SR, Troester MA, Richardson DB. Accounting for Misclassified Outcomes in Binary Regression Models Using Multiple Imputation With Internal Validation Data. American Journal of Epidemiology. 2013;177(9):904-912
+1. Weir SS, Li J,  **Edwards JK**, Gandhi AD,Yingying H, Suchindran CM, Chen X. Exploring Venue-Associated Risk: A Comparison of Multiple Partnerships and Syphilis Infection Among Women Working at Entertainment and Service Venues. AIDS and Behavior. 2013; 18(2), 153-160
+1. Weir SS, Merli MG, Li J, Gandhi AD, Neely WW,  **Edwards JK**, Suchindran CM, Henderson GE, Chen X. A comparison of respondent-driven and venue-based sampling of female sex workers in Liuzhou, China. Sexually Transmitted Infections 2012; 88 (Suppl 2), i95–i101
+1. Pettaway CA, Lamerato LE, Eaddy MT,  **Edwards JK**, Hogue SL, Crane MM. Benign prostatic hyperplasia: racial differences in treatment patterns and prostate cancer prevalence. BJU International, 2011; 108(8), 1302-308
+1. Denslow SA,  **Edwards JK**, Horney J, Peñas R, Morgan D. The effect of water and sanitation infrastructure on the prevalence of diarrheal disease in rural Nicaragua. BMC International Health and Human Rights 2010; 10(1), 30
+
+## Commentaries, letters, and book chapters
+
+1. **Edwards JK**, Cole SR, Adimora AA. Remdesivir and COVID-19. The Lancet. 2020 Oct 3;396(10256):953.
+1. Westreich D, van Smeden M, **Edwards JK**. COMMENT ON WILLIAMSON ET AL.(OpenSAFELY): the Table 2 fallacy in a study of COVID-19 mortality risk factors. Epidemiology. 2020; *In press*
+1. **Edwards JK**, and Lessler J. What now? Epidemiology in the wake of a pandemic. American Journal of Epidemiology. 2020; *In press*
+1. Lesko CR, Buchanan, AL, Westreich D, **Edwards JK**,, Hudgens MG, Cole SR. Re: Generalizing study results: a potential outcomes perspective. The authors respond. Epidemiology. 2018; 29(2), e14-e15
+1. Cole SR, Chu H, Brookhart MA, **Edwards JK**. Re: Dogmatists cannot learn. The authors respond. Epidemiology. 2017; 28(6), e62-e63
+1. Keil A, **Edwards JK**. Bias in environmental epidemiology. In:  Encyclopedia of Environmental Health, 2e. 2017
+
+
+## Invited presentations
+1.	Zen and the art of asking good questions, Society for Epidemiologic Research Annual Meeting. Online. 16 December 2020
+1.	Being principled about when we can be pragmatic: mechanics behind new user designs, Society for Epidemiologic Research and International Society for Pharmacoepidemiology joint webinar. 29 January 2020
+1.	A flexible approach to account for exposure measurement error in counterfactual risk functions, Joint Statistical Meetings, Denver, CO, 31 July 2019 
+1.	Competing events: practical illustrations, Society for Epidemiologic Research Annual Meeting, Seattle, WA, 19 June 2019 
+1.	Missing data, Society for Epidemiologic Research Annual Meeting, Seattle, WA, 21 June 2019 
+1.	Estimating policy relevant causal effects with inverse probability weights, Keynote address at the SERdigital symposium, 13 March 2019 
+1.	A hitchhikers guide to causal inference, Causal Inference Research Group, University of North Carolina, Chapel Hill, 7 September 2018 
+1.	Causal inference across space and time, Society for Epidemiologic Research Annual Meeting, Baltimore, MD, 23 June 2018 
+1.	An imputation approach to account for measurement error in marginal structural models, International Biometric Society Eastern North American Regional Meeting, Atlanta, GA, 27 March 2018 
+1.	Integrating data from key population surveys into surveillance efforts, Measurement and Surveillance of HIV Epidemics Scientific Symposium, Johannesburg, South Africa, 7 December 2017 
+10.	Estimating sizes of key populations as a missing data problem, UNAIDS Reference Group Meeting, London, United Kingdom, 19 October 2017 
+1.	A randomized trial of data adaptive doubly robust estimators versus standard practice, Society for Epidemiologic Research Annual Meeting, Seattle, WA, 22 June 2017 
+1.	A method to compare viral suppression over time in observational studies with competing events: Applied example to estimate the comparative effectiveness of raltegravir vs efavirenz, International Workshop on HIV Observational Databases, Lisbon, Portugal, 31 March 2017 
+1.	A geographic approach to extrapolating characteristics of key populations, Population Size Estimation Technical Consultation, CDC, Atlanta, GA, 31 January 2017 
+1.	Estimating the size, location and key characteristics of most-at-risk populations, Measurement and Surveillance of HIV Epidemics Scientific Symposium, Tallinn, Estonia, 27 October 2016 
+1.	Disparities in the HIV care continuum in the Dominican Republic, Social Epidemiology Seminar, UNC, Chapel Hill, NC, 12 October 2016 
+1.	Extrapolation of data from key population surveys and programs, AIDS, Durban, South Africa, 18 July 2016 
+1.	Scaling up interventions on the HIV care continuum: a practical example of meeting in the middle, Epidemiology Congress of the Americas, Miami, FL, 24 June 2016 
+1.	External validity and the transportability of internally valid effects, Epidemiology Congress of the Americas, Miami, FL, 22 June 2016 
+1.	Measurement error and causal inference: Incorporating measurement error into the potential outcomes framework, Workshop on Measurement Error and Complex Data, College Station, TX, 22 April 2016 
+1.	Estimating risk functions for cause-specific mortality when cause of death may be misclassified, International Workshop on HIV Observational Databases, Budapest, Hungary, 8 April 2016 
+1.	Quantitative methods to extrapolate size estimates: a geographic approach, Strategic information for key populations technical consultation, UNAIDS, Geneva, Switzerland, 9 March 2016 
+1.	Benefits of unique identifiers for studying the HIV care and treatment cascade, Strategic information for key populations technical consultation, UNAIDS, Geneva, Switzerland, 8 March 2016 
+1.	Age at entry into care, timing of antiretroviral therapy initiation, and 10-year mortality among HIV-seropositive adults in the United States, International Workshop on HIV Observational Databases, Catania, Sicily, 27 March 2015 
+1.	Missing data in epidemiologic analyses, UNC Annual Epidemiologic Methods Workshop,10 October 2014 
+1.	Estimating effects of interventions, Society for Epidemiologic Research, Seattle, WA, 27 June 2014 
+1.	Loss to follow-up and mortality among US HIV-infected antiretroviral therapy initiators, Society for Epidemiologic Research, Seattle, WA, 26 June 2014 
+1.	Missing data and causal inference, Causal inference research group, University of North Carolina, Chapel Hill, 7 February 2014
+1.	Incorporating retention in care into estimates from observational HIV cohort studies: implications for evaluation and inference, Biostatistics seminar, University of California, Berkeley, School of Public Health, 13 November 2013 
+1.	Methods to account for misclassification of cause-specific mortality, Society for Epidemiologic Research, Boston, MA, 21 June 2013 
+1.	Comparison of three causal models to control time-varying confounding in a cohort of bone marrow transplant recipients, Causal inference research group, University of North Carolina, Chapel Hill, 7 September 2012 
+
+# TEACHING
+
+*University of North Carolina at Chapel Hill*
+
+**Instructor**  
+Advanced Epidemiologic Methods \hfill 2021  
+Epidemiologic Analysis of Time to Event Data \hfill 2018, 2019  
+SAS Programming and Data Management \hfill 2012
+
+**Coinstructor**  
+Advanced Epidemiologic Methods \hfill 2020
+
+**Teaching Assistant**  
+Epidemiologic Analysis of Time to Event Data \hfill 2012, 2013  
+Quantitative Methods in Epidemiology \hfill 2011  
+Fundamentals of Epidemiology \hfill 2009
+
+*Short Courses and Workshops*
+
+**Co-instructor**, Capture-Recapture Workshop \hfill January 2019  
+North Carolina State Health Department, Raleigh, North Carolina  
+**Instructor**, Priorities for local AIDS control efforts workshop \hfill January 2016  
+Cape Town, South Africa
+
+# FUNDING
+
+## Current
+
+**Co-Principal Investigator**, NIH/NIAID R01AI157758 (MPI: J. Edwards & S. Cole)  
+8/1/2020 – 7/31/2025 $2,500,000 (direct)  
+Improved analyses of experiments and observational studies in HIV  
+In this work, we propose new and improved estimators of the risk (or survival) function to improve inference from randomized and nonrandomized HIV studies using new methods at the interface of statistics, epidemiology, causal inference, and artificial intelligence. 
+
+**Principal Investigator**, NIH/NIAID K01AI125087 (PI: J. Edwards)  
+12/15/2016 – 12/14/2021 $658,028 (direct)  
+Comparative effectiveness of tailored HIV treatment plans and mortality  
+The overall goal of this K01 application is to optimize clinical care decisions for people living with HIV. Specifically, this project will explore how antiretroviral therapy regimens affect cause-specific mortality and how treatment plans can be tailored or personalized based on patient characteristics to improve survival. 
+
+**Co-Principal Investigator**, NC State Legislature (MPI: J. Edwards & D. Westreich)  
+6/1/2020 – 12/31/2020 $597,641 (direct)  
+The Gillings Epidemiology Dashboard for NC Policymakers  
+The overall goal of this project is to build develop a resource center for SARS-CoV-2 testing, screening, and surveillance that will implement modern epidemiologic tools to enable better science and public health around SARS-CoV-2 
+
+## Past
+
+**Principal Investigator**, NIH/NIAID CFAR Administrative Supplement (PI: J. Edwards)  
+8/1/2019 – 7/31/2020 $100,000 (direct)  
+Developing novel tools to understand the HIV Epidemic in the United States using Big Data  
+This project develops and illustrates tools to leverage novel fusions of detailed, rapidly updated HIV surveillance and cohort data. The project goals are to assess and track evolving demographics of HIV diagnoses and disparities in HIV treatment outcomes in the United States. 
+
+**Activity Lead**, USAID AID-OAA-L-14-00004 (PI: J. Thomas)  
+Monitoring and Evaluation to Assess and Use Results (MEASURE) Evaluation Phase IV Project  
+Effect of mobility on treatment outcomes among mobile populations infected with HIV and TB in East Africa Cross-Border Regions 
+01/01/2018 – 3/31/2020 $1,000,000 (total)  
+To estimate the impact of mobility on TB and HIV treatment outcomes among mobile and vulnerable populations coinfected with TB and HIV in East Africa cross border regions. 
+
+**Principal Investigator**, UNC CFAR Developmental Award (PI: J. Edwards)  
+11/1/2015 – 10/31/2016 $30,000 (direct)  
+Examining causes of death among patients with HIV in the United States  
+To present critical information on trends in causes of death among patients with HIV in the United States.
+
+**Activity Lead**, USAID AID-OAA-L-14-00004 (PI: J. Thomas)  
+Monitoring and Evaluation to Assess and Use Results (MEASURE) Evaluation Phase IV Project  
+*Impact evaluation of the Cross Border Health Integrated Partnership Project*  
+06/01/2015 – 12/31/2016 $1,871,000 (total)  
+To estimate the impact of the cross border health integrated partnership project, a multifaceted structural intervention implemented in 10 cross border sites in 5 countries in East Africa   
+*Phylogenetic analysis of HIV infections in cross border sites in East Africa*  
+08/01/2016 – 05/01/2017 $790,000 (total)  
+To identify and describe HIV transmission clusters occurring among key popula- tions in cross border sites in East Africa and to describe patterns of resistance to antiretroviral medications in these populations. 
+
+**Activity Lead** Linkages across the continuum of HIV services for key populations affected by HIV (PI: S. Weir)
+Improving estimates related to the HIV care continuum in the Dominican Republic (Activity Lead: J. Edwards)  
+10/01/2015 – 12/31/2016 $300,000 (total)  
+To improve estimates of virologic suppression for sex workers and men who have sex with men in care for HIV in the Dominican Republic
+
+**Principal Investigator**, New Aid Foundation Grant for the study of neglected tropical diseases. (PI: J .Edwards)  
+7/1/2010 - 7/1/2011 $4000 (direct)  
+t. cruzi infection and cognitive development in primary school children in rural Nicaragua To provide information to local public health leaders on the prevalence of Chagas disease among children in rural Nicaragua and to assess the extent to which Chagas disease affects cognitive development. 
+
+## Pending
+
+**Co-Principal Investigator**, NIH/NIGMS R01 (MPI: J. Edwards & J. Lessler)  
+09/01/2020 – 8/31/2025 $2,500,000 (direct)  
+Algorithm Agnostic Integration of Mechanistic and Statistical Models for Disease Fore- casting
+The purpose of the proposed project is to improve inference, forecasting and decision making in response to emerging infectious diseases by developing a framework to integrate mechanistic and statistical approaches to epidemic modeling and causal inference. 
+
+# ACADEMIC SERVICE
+
+## Department of Epidemiology, University of North Carolina at Chapel Hill
+
+Sidney Kark Distinguished Teaching Assistant Award Committee, 2015 
+
+Masters thesis committees (completed)
+
+1. Grace Mulholland, Epidemiology, UNC, 2016
+1. Jackie Rudolph, Epidemiology, UNC, 2016 
+
+Doctoral thesis committees (completed)
+
+1.	Marie Stoner, Epidemiology, UNC, 2017: “The influence of school attendance on partner selection and sexually transmitted infections among young South African women"
+1.	Bradley Saul, Biostatistics, UNC, 2017: “Applications of and Tools for Causal Inference"
+1.	Marie-Josephe Horner, Epidemiology, UNC, 2018: “Cancer Burden Among HIV-Infected Individuals On Antiretroviral Therapy In Malawi: A Record Linkage Study"
+1.	Terra Fatuski, Epidemiology, UNC, 2018: “Frailty Differences between Women Living with HIV infection and Women without HIV infection: Components, Trends in Prevalence and Incidence, and Risk Factors"
+1.	Jackie Rudolph, Epidemiology, UNC, 2019: “Trends in US Mortality and Effects of Potential Nationwide Interventions on Ambient Levels of Fine Particulate Matter"
+1.	Michael Webster-Clark, Epidemiology, UNC, 2019: “Estimating Oral Anticoagulant Comparative Effectiveness in the Setting of Effect Heterogeneity: Comparing Clinical Trial Transport and Non-experimental Epidemiologic Methods"
+1.	Lisa Albert, Epidemiology, UNC, 2019: “Associations of father absence and orphan status with first pregnancy and HIV infection"
+1.	Molly Deutsch-Feldman, Epidemiology, UNC, 2020: “The Changing Spatial Epidemiology of Malaria in the Democratic Republic of the Congo"
+1.	Nicholas Brazeau, Epidemiology, UNC, 2020: “The Molecular, Spatial, and Genetic Epidemiology of Malaria in the Democratic Republic of the Congo"
+1.	Tiffany Breger, Epidemiology, UNC, 2020: “Estimating the Impacts of Intervention Portfolios in Observational HIV Cohorts"
+1.	Phyo Htoo, Epidemiology, UNC, 2020: “Estimating Treatment Effects In The Presence Of Calendar Time Trends In Prescribing: Instrumental Variables And Trend-In-Trend Design"
+1.	Nicole Frascino, Epidemiology, UNC, 2020: "The effect of adverse life events on HIV services among female sex workers and other high risk women in Malawi."
+
+## Journals
+*Associate editor*, American Journal of Epidemiology
+
+*Associate editor*, BMC Infectious Diseases
+
+*Statistical advisor*, PLoS Medicine
+
+*Reviewer* for American Journal of Epidemiology, Epidemiology, Biometrics, Statistics in Medicine, Annals of Applied Statistics, Journal of Applied Statistics, Journal of Causal Inference, Epidemiologic Methods, Journal of Acquired Immune Deficiency Syndromes Pharmacoepidemiology and Drug Safety, Journal of Clinical Epidemiology, Annals of Epidemiology, Occupational and Environmental Medicine, Antiviral Therapy, Computational and Mathematical Methods in Medicine Lifetime Data Analysis, PLOS One, Scientific Reports, Environmental Health Perspectives, Paediatric and Perinatal Epidemiology, PLoS Medicine, Brazilian Journal of Infectious Diseases, and others
+
+## Society for Epidemiologic Research
+*Member*, 2009–Present  
+*Publication committee member*, 2015–2018  
+*Symposium session chair*:  
+2019 - “The elephant in the room: Causal inference in the face of competing events”  
+2018 - “Epidemiologic research with incomplete and imperfect data: making progress in the face of uncertainty”  
+2017 - “Putting the ‘Implementation’ back into Implementation Science: Moving beyond the ‘Implications’ of Epidemiologic Research”  
+2016 - “Meeting in the middle: systems science and causal inference”  
+2015 - “Bayesian methods and causal inference”  
+2014 - “Selection bias due to loss: An old and often ignored problem revisited"  
+2013 - “Recording nature’s answers: Measurement bias in epidemiology”  
+
+
+
